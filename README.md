@@ -10,6 +10,7 @@ Zhiyuan Zeng*, Hamish Ivison*, Yiping Wang*, Lifan Yuan*, Shuyue Stella Li, Zhuo
 ## 🔗 Resources
 - 📄 **[Paper](https://arxiv.org/abs/2511.07317)**
 - 💾 **[Code & Data](https://github.com/Zhiyuan-Zeng/RLVE)**
+- 🤗 **[Models](https://huggingface.co/collections/hamishivi/rlve)**
 
 If you find our work useful, please consider citing:
 
